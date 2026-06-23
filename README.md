@@ -61,7 +61,7 @@ Merkle Tree verification
 Multi-firewall support
 Authors
 
-Smart contract: 0x3B23dAed4640F2FA7E2aCFaa62DF52073477f94E  
+Smart contract: 0x3B23dAed4640F2FA7E2aCFaa62DF52073477f94E https://blockexplorer.dimikog.org/tx/0x0587e3e8d6d5847e079a4d280a064c03510d1456aa0a44541837e1cae868e4aa 
 
 <img width="1672" height="941" alt="transaction details" src="https://github.com/user-attachments/assets/d6aff8e2-8493-4be0-be1a-54ff4460f143" />
 
