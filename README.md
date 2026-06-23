@@ -63,7 +63,7 @@ Authors
 
 The sample firewall logs are provided as an encrypted 7z archive for privacy reasons.
 
-Xenofon Batsis
+Xenofon Batsis -
 Dionysia Kavallieratou
 
 MSc Cybersecurity
