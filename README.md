@@ -61,9 +61,14 @@ Merkle Tree verification
 Multi-firewall support
 Authors
 
+Smart contract: 0x3B23dAed4640F2FA7E2aCFaa62DF52073477f94E  
+
+<img width="1672" height="941" alt="transaction details" src="https://github.com/user-attachments/assets/d6aff8e2-8493-4be0-be1a-54ff4460f143" />
+
+
 The sample firewall logs are provided as an encrypted 7z archive for privacy reasons.
 
-Xenofon Batsis -
+Xenofon Batsis 
 Dionysia Kavallieratou
 
 MSc Cybersecurity
