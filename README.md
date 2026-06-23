@@ -73,3 +73,5 @@ Dionysia Kavallieratou
 
 MSc Cybersecurity
 University of West Attica
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/42b24b05-d63b-4151-8421-8c3173ef8252" />
+
