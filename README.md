@@ -61,6 +61,8 @@ Merkle Tree verification
 Multi-firewall support
 Authors
 
+The sample firewall logs are provided as an encrypted 7z archive for privacy reasons.
+
 Xenofon Batsis
 Dionysia Kavallieratou
 
