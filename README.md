@@ -17,6 +17,9 @@ Smart Contract (Solidity)
 Hyperledger Besu Blockchain
       ↓
 Integrity Verification
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/552423cd-ea25-436c-b3a5-ec988b902d23" />
+
 Components
 Smart Contract
 
