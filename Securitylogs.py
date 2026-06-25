@@ -245,6 +245,7 @@ if receipt.status == 1:
 else:
     print("FAILED: Transaction reverted")
     print("Transaction confirmed")
+
 print(f"Transaction hash: {w3.to_hex(tx_hash)}")
 print(f"Explorer URL: https://blockexplorer.dimikog.org/tx/{w3.to_hex(tx_hash)}")
 print(f"Block number: {receipt.blockNumber}")
