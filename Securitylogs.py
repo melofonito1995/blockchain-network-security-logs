@@ -127,6 +127,10 @@ def to_bytes32(text: str) -> bytes:
 # ============================================================
 
 w3 = Web3(Web3.HTTPProvider(RPC_URL))
+print("Connected:", w3.is_connected())
+print("RPC URL:", RPC_URL)
+print("Chain ID from RPC:", w3.eth.chain_id)
+print("Latest block from RPC:", w3.eth.block_number)
 
 if not w3.is_connected():
     raise ConnectionError("Could not connect to Besu RPC endpoint")
@@ -240,3 +244,9 @@ if receipt.status == 1:
     print("SUCCESS: Firewall log hash stored on-chain")
 else:
     print("FAILED: Transaction reverted")
+    print("Transaction confirmed")
+print(f"Transaction hash: {w3.to_hex(tx_hash)}")
+print(f"Explorer URL: https://blockexplorer.dimikog.org/tx/{w3.to_hex(tx_hash)}")
+print(f"Block number: {receipt.blockNumber}")
+print(f"Gas used: {receipt.gasUsed}")
+print(f"Status: {receipt.status}")
